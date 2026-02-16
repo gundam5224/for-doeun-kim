@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>화이트데이 이벤트</title>
+<title>❤️도은아 1주년 축하해!!❤️</title>
 
 <style>
 * { box-sizing: border-box; }
@@ -101,7 +101,7 @@ h1{
 <body>
   <div class="card">
     <h1>
-      도은아 1주년 축하해!! 1주년에는 못 만났지만<br>
+      도은아 1주년에는 못 만났지만<br>
       5월 말에 우리 머어얼리 여행갈래?
     </h1>
 
@@ -110,7 +110,7 @@ h1{
       <button class="btn no" id="noBtn" type="button">No</button>
     </div>
 
-    <div class="result" id="result">❤️ 91일  데이트 확정 ❤️</div>
+    <div class="result" id="result">91일 뒤 데이트 확정.</div>
   </div>
 
 <script>
